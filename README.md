@@ -42,7 +42,6 @@ python bettersure_ai_enablement.py --make-pdf
 - Converts Markdown (**bold**, *italics*, and `**Tip:**`) to PDF-friendly formatting.
 - Auto-paginates and prints progress (e.g., `Answering Q1/20`, `Adding content to PDF page 2…`).
 
-```
 
 ### Option B — Streamlit mini‑UI (interactive)
 Ask questions interactively in a browser.
